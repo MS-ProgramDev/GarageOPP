@@ -41,9 +41,6 @@ Built as part of an object-oriented programming course.
 ├── GarageOOP_Architecture_and_UML.docx # UML + architecture explanation
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## 🧪 How to Run
