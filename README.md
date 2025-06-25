@@ -33,7 +33,6 @@ Built as part of an object-oriented programming course.
 
 ## 🗂️ Project Structure
 
-.
 ├── Garage Management.sln # Solution file
 ├── GarageOPP.ConsoleUI/ # Console interaction
 ├── GarageOPP.GarageLogic/ # Core logic and business rules
