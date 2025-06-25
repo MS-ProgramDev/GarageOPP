@@ -32,14 +32,14 @@ Built as part of an object-oriented programming course.
 ---
 
 ## 🗂️ Project Structure
-
+```
 ├── Garage Management.sln # Solution file
 ├── GarageOPP.ConsoleUI/ # Console interaction
 ├── GarageOPP.GarageLogic/ # Core logic and business rules
 ├── Vehicles.db # Sample vehicle data
 ├── GarageOOP_Architecture_and_UML.docx # UML + architecture explanation
 └── README.md
-
+```
 ---
 
 ## 🧪 How to Run
